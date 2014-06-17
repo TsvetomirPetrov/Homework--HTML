@@ -1,0 +1,49 @@
+body{
+    font-size: 25px;
+    font-family: Calibri;
+}
+table, tr, td, th{
+    border: 1px solid black;
+}
+td, th{
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+}
+.second{
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+td table td {
+    height: 45px;
+}
+th{
+    font-size: 60px;
+}
+.google{
+    vertical-align: top;
+}
+.github{
+    vertical-align: top;
+    text-align: right;
+}
+.fb{
+    vertical-align: top;
+    text-align: center;
+}
+.youtube{
+    vertical-align: bottom;
+    text-align: center;
+}
+.food{
+    vertical-align: bottom;
+    text-align: right;
+}
+.game{
+    vertical-align: bottom;
+}
+.beer{
+    font-size: 40px;
+    text-align: right;
+}
